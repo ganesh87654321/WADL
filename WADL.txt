@@ -1,8 +1,4 @@
-D.Y PATIL COLLEGE OF ENGINEERING PUNE
-DEPARTMENT OF INFORMATION TECHNOLOGY
-ACADEMIC YEAR  2021-22
-SUBJECT : WAD
-Sample Program
+
 1  The EventEmitter Object
 In the example below we have created a function that will be executed when a "scream" event is fired.
 To fire an event, use the emit() method.
